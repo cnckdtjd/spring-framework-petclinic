@@ -430,12 +430,10 @@
     <profiles>
         <profile>
             <id>HSQLDB</id>
-<!--
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
--->    
-        <properties>
+            <properties>
                 <db.script>hsqldb</db.script>
                 <jpa.database>HSQL</jpa.database>
                 <jdbc.driverClassName>org.hsqldb.jdbcDriver</jdbc.driverClassName>

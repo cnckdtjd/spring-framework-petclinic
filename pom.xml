@@ -496,7 +496,7 @@
         <repository>
             <id>repository.spring.milestone</id>
             <name>Spring Milestone Repository</name>
-            <url>https://repo.spring.io/ui/native/milestone</url>
+            <url>http://repo.spring.io/milestone</url>
         </repository>
     </repositories>
 
